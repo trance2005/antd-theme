@@ -4,6 +4,7 @@
 
 <p align="center">
   Set the theme online, generate less and js files directly <a href="https://theme.antd.group">theme.antd.group</a>
+  forked by this user.
 </p>
 
 ![](https://github.com/gzgogo/antd-theme/raw/master/screenshot.png)
